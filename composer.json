@@ -1,0 +1,15 @@
+{
+	"name": "fernando/phpframework",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Fernando"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"PF\\": "vendor/PF/"
+		}
+	}
+}
